@@ -4,3 +4,6 @@ xnxj2.	Create a first file (e.g “File1.txt”) and add a few lines to it.
 3.	Initialize your git repository, add a file to staging and make your first commit.
 4.	Add another file (e.g “File2.txt”) and add a few lines to it.
 5.	Make your second commit.
+wdwsed
+dsuh
+wsu
